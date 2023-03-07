@@ -9,7 +9,7 @@ TMDB API와 react를 이용하여 만든 현재 상영중인 영화를 볼 수 �
 
 ## 화면 이미지
 <img width="80%" src="https://user-images.githubusercontent.com/21376061/223431738-6358002f-1671-4687-b146-86742a31ef44.png"/>
-<img width="80%" src="https://user-images.githubusercontent.com/21376061/223431738-6358002f-1671-4687-b146-86742a31ef44.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/21376061/223431892-a521d181-effc-43db-9e24-bb2db331f2bf.png"/>
 
 ## 라이브러리
 react-router-dom
